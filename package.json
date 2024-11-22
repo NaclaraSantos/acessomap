@@ -2,7 +2,7 @@
   "name": "acessomap-web",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://NaclaraSantos.github.io/acessomap/",
+  "homepage": "https://naclarasantos.github.io/acessomap/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
